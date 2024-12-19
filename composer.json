@@ -1,0 +1,15 @@
+{
+    "name": "mahmoud/to-do-app",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mahm0ud-0",
+            "email": "mahmoudaborasheed2017@gmail.com"
+        }
+    ],
+    "require": {}
+}
